@@ -1,0 +1,8 @@
+{
+"urls": [
+{
+"name": "LibreTV点播",
+"url": "https://cdn.jsdelivr.net/gh/xuegenshuo/LibreTV-TVBox@main/tvbox.json"
+}
+]
+}
