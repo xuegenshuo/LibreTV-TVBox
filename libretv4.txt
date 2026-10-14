@@ -1,0 +1,8 @@
+//以下内容为互联网收集，只为自用。
+{ "storeHouse": [ 
+    {
+      "sourceName": "🎬LibreTV高清点播",
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/xuegenshuo/LibreTV-TVBox/main/list.txt"
+    }
+]
+}
